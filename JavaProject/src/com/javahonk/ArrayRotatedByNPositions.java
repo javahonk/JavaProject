@@ -6,6 +6,7 @@ public class ArrayRotatedByNPositions {
 
 		int input[] = { 1, 2, 3, 4, 5, 6 };
 		int output[] = new int[input.length];
+		System.out.println("Test");
 		
 		//Input number
 		int N = 2;
